@@ -1,12 +1,12 @@
 # portfolio
 
-##Projects
-###Business Analyst
+## Projects
+### Business Analyst
 - Description
 - Links
 
-###Product Management
+### Product Management
 
-###Dashboard
-####Stock Management
+### Dashboard
+#### Stock Management
 - Software: React
