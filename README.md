@@ -11,7 +11,7 @@
 - Summary: Predicting residential properties sale prices in Ames, Iowa, based on various characteristics like house size and garage area. Data from the Ames Assessor's Office includes 82 columns and 2930 records of sold properties from 2006-2010. Using Ordinary Least Squares (OLS) regression and evaluate model performance based on the adjusted R² value, ensuring the best model was selected by adjusting for the number of parameters to avoid adding insignificant variables. Future models should account for non-linear relationships and potential multicollinearity to better predict sale prices.
 - Package: numpy, pandas, matplotlib, seaborn, sklearn
 - Category: Machine Learning
-- Code: Sales House Prediction
+- Code: [Sales House Prediction] (house_price_prediction.ipynb) 
 
 ### R
 
