@@ -2,7 +2,7 @@
 
 ## Introduction
 #### Hi! I'm Julia. 
-##### I hold a bachelor's degree in Economics with honors and recently graduated with a Commerce degree specialising in Data Analytics and Global Logistics. My professional journey has been diverse, beginning as a Market Research Analyst and progressing into a Product Management role. Throughout my journey, I’ve developed a strong focus on data analytics, client consultation, and product development, which has given me a unique perspective on how data can drive business decisions.
+##### I hold academic degree in Economics and recently completed Master's degree in Data Analytics and Global Logistics. My professional journey has been diverse, beginning as a Market Research Analyst and progressing into a Product Management role. Throughout my journey, I’ve developed a strong focus on data analytics, client consultation, and product development, which has given me a unique perspective on how data can drive business decisions.
 ##### In this portfolio, you'll find a collection of projects that showcase my expertise in data analysis, particularly in data visualisation and using tools like Python, R, Excel, and SQL. Whether it's through creating dashboards, performing statistical analysis, or building data models, I approach every project with a focus on delivering clear, insightful, and actionable results.
 
 ## Projects
@@ -17,6 +17,9 @@
 
 ### SQL
 
-### Dashboard
-#### Stock Management
-- Software: React
+### Dash
+#### Stock Management Dashboard
+- Summary:
+- Package: Python, Dash
+- Category: Data visualisation, Dashboard
+- Code: 
