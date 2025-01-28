@@ -11,7 +11,7 @@
 - Summary: Predicting residential properties sale prices in Ames, Iowa, based on various characteristics like house size and garage area. Data from the Ames Assessor's Office includes 82 columns and 2930 records of sold properties from 2006-2010. Using Ordinary Least Squares (OLS) regression and evaluate model performance based on the adjusted R² value, ensuring the best model was selected by adjusting for the number of parameters to avoid adding insignificant variables. Future models should account for non-linear relationships and potential multicollinearity to better predict sale prices.
 - Package: numpy, pandas, matplotlib, seaborn, sklearn
 - Category: Machine Learning
-- Code: ([house_price_prediction.ipynb](https://github.com/cjtos/Python/blob/4e54f574fc32f2848729918703e8d7017b2ce000/house_price_prediction.ipynb)) 
+- Code: [house_price_prediction.ipynb](https://github.com/cjtos/Python/blob/4e54f574fc32f2848729918703e8d7017b2ce000/house_price_prediction.ipynb)
 
 ### R
 
@@ -22,4 +22,4 @@
 - Summary: This project is a part of University project to design and develop a real-time inventory management dashboard aimed at improving business operations by enhancing supply chain visibility. The problem addressed in this project revolves around the challenges businesses face in efficiently managing inventory levels, fulfilling customer orders, and minimising stockouts or excess inventory. Fluctuations in product demand and inefficient stock management can lead to customer dissatisfaction, missed sales opportunities, and unnecessary costs.
 - Package: Python, Dash
 - Category: Data visualisation, Dashboard
-- Code: ([inventory_management_dashboard](https://github.com/cjtos/Dash/blob/34a76044686ac0fce04a78699bc3baa2ba7ace91/README.md))
+- Code: [inventory_management_dashboard](https://github.com/cjtos/Dash/blob/34a76044686ac0fce04a78699bc3baa2ba7ace91/README.md)
