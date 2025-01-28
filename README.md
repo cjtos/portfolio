@@ -18,8 +18,8 @@
 ### SQL
 
 ### Dash
-#### Stock Management Dashboard
+#### Inventory Management Dashboard
 - Summary: This project is a part of University project to design and develop a real-time inventory management dashboard aimed at improving business operations by enhancing supply chain visibility. The problem addressed in this project revolves around the challenges businesses face in efficiently managing inventory levels, fulfilling customer orders, and minimising stockouts or excess inventory. Fluctuations in product demand and inefficient stock management can lead to customer dissatisfaction, missed sales opportunities, and unnecessary costs.
 - Package: Python, Dash
 - Category: Data visualisation, Dashboard
-- Code: https://github.com/cjtos/Dash/blob/34a76044686ac0fce04a78699bc3baa2ba7ace91/README.md
+- Code: ([inventory_management_dashboard](https://github.com/cjtos/Dash/blob/34a76044686ac0fce04a78699bc3baa2ba7ace91/README.md))
